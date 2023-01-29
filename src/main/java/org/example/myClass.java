@@ -10,3 +10,4 @@ class MyClass {
         sumOfTwoNumbers(1, 2);
     }
 }
+//HW1
