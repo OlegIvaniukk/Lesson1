@@ -18,7 +18,6 @@ class HW2 {
              System.out.printf("This value is less than zero");
          }
          else System.out.printf("This value is zero");
-//        System.out.println("You have insert "+x);
     }
 
     public static void main (String[] args) {
