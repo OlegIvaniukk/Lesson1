@@ -1,10 +1,12 @@
-class myClass {
-    int Year = 2023;
-    public static int myMethod(int a, int b) {
+class MyClass {
+    int year = 2023;
+
+    public static int sumOfTwoNumbers(int a, int b) {
         int c = a + b;
         return c;
     }
+
     public static void main(String[] args) {
-        myMethod(1, 2);
+        sumOfTwoNumbers(1, 2);
     }
 }
