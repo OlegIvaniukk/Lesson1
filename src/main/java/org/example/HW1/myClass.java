@@ -1,3 +1,5 @@
+package HW1;
+
 class MyClass {
     int year = 2023;
 
