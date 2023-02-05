@@ -1,3 +1,5 @@
+package HW2;
+
 import java.util.Scanner;
 
 class HW2 {
